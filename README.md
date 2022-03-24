@@ -1,6 +1,10 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Oi, game de shhoter 🙃
 
-Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um joguinho de space shooter super legal! 
+space shooter super legal! foi muito desafiador fazer este game, mas foi bem legal, aprende como capturar os elementos do css e mudei a velocidade do game!
+
+se quiser ver o game em ação clique aqui! https://maurogallotta.com/extra/game/space_shooter/index.html
+
+se quiser mais info sobre os meus trabalhos clique aqui:  https://maurogallotta.com
 
 ### Os requisitos são:
 
